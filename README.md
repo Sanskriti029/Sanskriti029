@@ -46,10 +46,10 @@
 </p>
 
 
-<h2 align="center"> Top languages </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti029&bg_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti029&layout=compact&theme=github_dark_dimmed&hide_border=false&border_radius=10" alt="Top Languages" />
 </p>
+
 
 <!-- Footer -->
 <p align="center">
