@@ -39,18 +39,16 @@
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api?username=Sanskriti029&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 </a>
+</p>
+
 
 <h2 align="center"> Top languages </h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti029" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com?user=Sanskriti029" alt="GitHub Streak" />
-
-
-
-
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti029&bg_color=000000" alt="Top Languages" />
 </p>
 
 <!-- Footer -->
