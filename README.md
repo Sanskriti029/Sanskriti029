@@ -26,7 +26,7 @@
   Currently exploring web development, open source, and tech for good.
 </p>
 
-
+<!-- Tech Stack -->
 <h2 align="center">💻 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -40,19 +40,17 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://github-readme-stats.vercel.app/api?username=Sanskriti029&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sanskriti029&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
 </p>
 
-<p align="centre">
-<h2>Top Languages</h2>
-    <a href="https://github.com/Sanskriti029" target="_blank" rel="noopener noreferrer">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti029&layout=compact&theme=dark&hide_border=true" 
-        alt="Top Languages" 
-      />
-    </a>
+<!-- Top Languages -->
+<h2 align="center">📈 Top Languages</h2>
+<p align="center">
+  <a href="https://github.com/Sanskriti029" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti029&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  </a>
 </p>
 
 <!-- Footer -->
