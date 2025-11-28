@@ -8,7 +8,7 @@
   Connect with me
 </h2>
 <p align="center">
-  <a href="www.linkedin.com/in/sanskriti-khandelwal-b2a17b36a" target="_blank">
+  <a href="www.linkedin.com/in/sanskriti-khandelwal-01b45b324" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
   <a href="mailto: sanskritikhandelwal029@gmail.com" target="_blank">
