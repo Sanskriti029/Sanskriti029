@@ -87,7 +87,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti029&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
+<div align="center">
+  
+ ### 🏆 Achievements
 
+
+⚡ Quickdraw  
+</div>
+---
 <!-- Footer -->
 <div align="center">
 
