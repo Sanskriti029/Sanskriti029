@@ -56,7 +56,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanskriti029&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Sanskriti029&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 </p>
 
 <p align="left">
@@ -64,7 +64,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskriti029&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sanskriti029&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
 ---
