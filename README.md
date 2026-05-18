@@ -90,6 +90,9 @@ MERN Stack • Open Source Contributions • API Development
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" height="35"/>
   </a>
 </p>
+<div>
+  <a href="https://komarev.com/ghpvc/?username=Sanskriti029&label=Profile%20views&color=0e75b6&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=Sanskriti029&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" /></a>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
