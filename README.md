@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Sanskriti029&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Sanskriti029&theme=dark&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github"/>
 </p>
 
 <p align="left">
